@@ -47,3 +47,16 @@
     background-color: white;
     border: none;
 }
+.subscribe{
+    background-color: #FCEAE8;
+    height: 300px;
+}
+.subscribe p{
+    color: gray;
+}
+input{
+    margin-bottom:5px ;
+}
+footer{
+    text-align: center;
+}
